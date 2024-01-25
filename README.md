@@ -35,7 +35,7 @@ The project provides the following outputs:
     ```bash
     python Test.py
 ## Visualizations
-![Subdivision Bunny](output\images\snapshot100.png)
+![Subdivision Bunny]("output\images\snapshot100.png")
 **Bunny Model**
 <table>
   <tr>
@@ -56,7 +56,7 @@ The project provides the following outputs:
   </tr>
 </table>
 
-![Subdivision BunnyCloud](output\images\snapshotT01.png)
+![Subdivision TeapotCloud](output\images\snapshotT01.png)
 **Point Cloud**
 
 ## Note
