@@ -35,7 +35,9 @@ The project provides the following outputs:
     ```bash
     python Test.py
 ## Visualizations
+
 ![Subdivision Bunny]("output\images\snapshot100.png")
+
 **Bunny Model**
 <table>
   <tr>
