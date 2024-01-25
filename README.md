@@ -36,8 +36,7 @@ The project provides the following outputs:
     python Test.py
 ## Visualizations
 
-![Subdivision Bunny]("output\images\snapshot100.png")
-
+![Subdivision Bunny](output/images/snapshot100.png)
 **Bunny Model**
 <table>
   <tr>
@@ -46,10 +45,10 @@ The project provides the following outputs:
   </tr>
 </table>
 
-![Subdivision BunnyCloud](output\images\snapshotB01.png)
+![Subdivision BunnyCloud](output/images/snapshotB01.png)
 **Point Cloud**
 
-![Subdivision Teapot](output\images\snapshot300.png)
+![Subdivision Teapot](output/images/snapshot300.png)
 **Teapot Model** 
 <table>
   <tr>
@@ -58,7 +57,7 @@ The project provides the following outputs:
   </tr>
 </table>
 
-![Subdivision TeapotCloud](output\images\snapshotT01.png)
+![Subdivision TeapotCloud](output/images/snapshotT01.png)
 **Point Cloud**
 
 ## Note
